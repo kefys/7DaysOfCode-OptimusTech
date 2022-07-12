@@ -1,7 +1,8 @@
 :root{
     --main-font: 'Inter', sans-serif;
     --main-color: #667085;
-    --dark-gray: #3A404E;
+    --gray: #3A404E;
+    --dark-gray: #101828;
     --red: #8E2424;
 }
 
