@@ -1,0 +1,35 @@
+.jobs{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.type-job{
+    margin: 1rem 0;
+}
+
+.job{
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    padding: 24px 24px 28px 24px;
+    gap: 24px;
+    width: 700px;
+    margin: 2rem 0;
+}
+
+.jobs__title{
+    font-size: 20px;
+    line-height: 30px;
+    color: var(--dark-gray);
+}
+
+.job-title{
+    color: var(--dark-gray);
+    line-height: 28px;
+    font-size: 18px;
+}
+
+.info__time{
+    margin-right: 1rem;
+}
