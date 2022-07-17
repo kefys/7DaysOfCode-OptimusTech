@@ -42,4 +42,5 @@
 .buttons:hover{
     background-color: var(--red);
     color: #fff;
+    cursor: pointer;
 }
