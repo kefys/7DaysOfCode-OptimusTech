@@ -1,0 +1,33 @@
+.about-us{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 32px;
+    padding: 64px;
+    border-radius: 16px;
+    background: rgba(196, 25, 25, 0.03);
+    text-align: center;
+    margin: 0 5rem 5rem 5rem;
+}
+
+.about-us__title{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    color: var(--red);
+}
+
+.about-us__text{
+    font-size: 36px;
+    line-height: 44px;
+    color: var(--dark-gray);
+}
+
+.about-us__julia{
+    color: var(--dark-gray);
+}
+
+.about-us__desc{
+    font-size: 14px;
+    line-height: 20px;
+}
